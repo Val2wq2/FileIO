@@ -1,0 +1,6 @@
+abc 3.4
+xyz 3.2
+mnp 2.8
+bcd 3.7
+dyk 4.0
+dob 2.5
